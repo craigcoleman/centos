@@ -1,0 +1,7 @@
+# yum install gnome-shell-browser-plugin
+https://extensions.gnome.org/
+Search frip
+Install Frippery Panel Favorites
+https://extensions.gnome.org/extension/4/panel-favorites/
+
+systemctl set-default multi-user.target
